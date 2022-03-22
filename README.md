@@ -18,7 +18,7 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Statistique" alt="Github stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=algolia&include_all_commits=true&custom_title=MattNix%20Github stats" alt="Github stats" /> <br/><br/>
   </p>
 </div>
 
