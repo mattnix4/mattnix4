@@ -44,7 +44,7 @@
 <p align=center>
   <a href="https://www.linkedin.com/in/gasytalk.ml/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
   &nbsp
-  <a href="https://www.instagram.com/zeelife.ml"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/instagram.png"></a>
+  <a href="https://www.instagram.com/zeelife.ml"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/insta.png"></a>
   &nbsp
   <a href="https://www.facebook.com/gasytalk.ml"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
 </p>
