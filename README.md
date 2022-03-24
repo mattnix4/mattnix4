@@ -1,25 +1,8 @@
 ### Hi there 👋, I'm from Madagascar 🇲🇬 
 
-<!-- PROFILE VIEW 
-<p align="center">  <strong>
-<img src="https://komarev.com/ghpvc/?username=mattnix4&amp;color=008080">
-</strong> </p>
-
--->
-
-<!-- STREAK STATS -->
-<div>
-  <p align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mattnix4&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"> <br><br>
-
-  </p>
-</div>
-
 Me on github                                                                                                                                    | Most used languages |
 ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-
-[![Mattnix's github stats](https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=dark&include_all_commits=true&custom_title=Github%20stats)](https://github.com/mattnix4) | [![Mattnix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&theme=solarized-dark&&show_icons=true&layout=compact&hide=css,html)](https://github.com/mattnix4) 
+[![Mattnix's github stats](https://github-readme-stats.vercel.app/api?username=julkwel&show_icons=true&theme=dark)](https://github.com/mattnix4) | [![Mattnix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&show_icons=true&layout=compact&hide=css,html)](https://github.com/mattnix4) 
 
 <!--
 <div>
