@@ -1,4 +1,4 @@
-<h3> Hi there 👋, I'm from Madagascar 🇲🇬  <h3>
+### Hi there 👋, I'm from Madagascar 🇲🇬 
 
 <!-- PROFILE VIEW 
 <p align="center">  <strong>
@@ -44,9 +44,6 @@
 
 <p align=center>
   <a href="https://www.linkedin.com/in/gasytalk.ml/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
-
-<!--
-  <a href="https://www.instagram.com/zeelife.ml"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/instagram.png"></a> -->
 
   <a href="https://www.facebook.com/gasytalk.ml"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
 </p>
