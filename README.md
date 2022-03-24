@@ -11,22 +11,27 @@
 <div>
   <p align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mattnix4&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Stats"> <br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mattnix4&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"> <br><br>
 
+  </p>
+</div>
+
+[![Mattnix's github stats](https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=dark&include_all_commits=true&custom_title=Github%20stats)](https://github.com/mattnix4) | [![Mattnix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&theme=solarized-dark&show_icons=true&layout=compact&hide=css,html)](https://github.com/mattnix4) 
+
+<!--
+<div>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=dark&include_all_commits=true&custom_title=Github%20stats" alt="Github stats" /> <br/><br/>
   </p>
 </div>
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=algolia&include_all_commits=true&custom_title=MattNix%20Github stats" alt="Github stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&theme=solarized-dark&&show_icons=true&layout=compact&hide=css,html" alt="Lang stats" /> <br/><br/>
   </p>
 </div>
 
-<div>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&theme=solarized-dark" alt="Lang stats" /> <br/><br/>
-  </p>
-</div>
+-->
 
   <!-- SKILLS -->
   
@@ -43,7 +48,10 @@
 
 <p align=center>
   <a href="https://www.linkedin.com/in/gasytalk.ml/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
-  &nbsp
+
+<!--
+  <a href="https://www.instagram.com/zeelife.ml"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/instagram.png"></a> -->
+
   <a href="https://www.facebook.com/gasytalk.ml"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
 </p>
 
