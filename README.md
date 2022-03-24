@@ -25,7 +25,7 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&theme=solarized-dark&&show_icons=true&layout=compact&hide=html" alt="Lang stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&theme=solarized-dark&&show_icons=true&layout=compact&hide=css,html" alt="Lang stats" /> <br/><br/>
   </p>
 </div>
 
