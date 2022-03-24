@@ -1,4 +1,4 @@
-### Hi there 👋, I'm from Madagascar 🇲🇬 
+<h3> Hi there 👋, I'm from Madagascar 🇲🇬  <h3>
 
 <!-- PROFILE VIEW 
 <p align="center">  <strong>
@@ -21,13 +21,13 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=dark&include_all_commits=true&custom_title=Github stats" alt="Github stats" /> <br/><br/>
   </p>
-</div>
 
-<div>
+
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&theme=solarized-dark&&show_icons=true&layout=compact&hide=css,html" alt="Lang stats" /> <br/><br/>
   </p>
-</div>
+ 
+ </div>
 
   <!-- SKILLS -->
   
