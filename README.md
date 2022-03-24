@@ -2,7 +2,7 @@
 
 Me on github                                                                                                                                    | Most used languages |
 ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-[![Mattnix's github stats](https://github-readme-stats.vercel.app/api?username=julkwel&show_icons=true&theme=dark)](https://github.com/mattnix4) | [![Mattnix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&show_icons=true&layout=compact&hide=css,html)](https://github.com/mattnix4) 
+[![Mattnix's github stats](https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=dark)](https://github.com/mattnix4) | [![Mattnix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&show_icons=true&layout=compact&hide=css,html)](https://github.com/mattnix4) 
 
 <!--
 <div>
