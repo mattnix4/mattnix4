@@ -1,22 +1,19 @@
 ### Hi there 👋, I'm from Madagascar 🇲🇬 
 
 <!-- PROFILE VIEW 
-<p align="center">  <strong>
-<img src="https://komarev.com/ghpvc/?username=mattnix4&amp;color=008080">
-</strong> </p>
+<p align="center">  
+  <strong>
+    <img src="https://komarev.com/ghpvc/?username=mattnix4&amp;color=008080"/>
+  </strong> 
+</p>
 
 -->
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mattnix4&repo=mattnix4&countColor=%2308E8FF"/>
-</p>
-
 <!-- STREAK STATS -->
 <div>
-  <p align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mattnix4&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"> <br><br>
-
+  <p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mattnix4&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <br><br>
   </p>
 </div>
 
@@ -56,6 +53,12 @@
 
 <p align="center" style="background: #1c1c1c;">  
   <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=%24%20sudo%20apt%20install%20brain&amp;duration=7000">
+</p>
+
+<!-- Visitor -->
+
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mattnix4&repo=mattnix4&countColor=%2308E8FF"/>
 </p>
 
 
