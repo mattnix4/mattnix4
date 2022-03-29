@@ -43,9 +43,13 @@
   <!-- SOCIAL NETWORK -->
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/gasytalk.ml/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
+  <a href="https://www.linkedin.com/in/gasytalk.ml/">
+    <img height='35' width='35' src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"/>
+  </a>
 
-  <a href="https://www.facebook.com/gasytalk.ml"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
+  <a href="https://www.facebook.com/gasytalk.ml">
+    <img height='35' width='35' src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"/>
+  </a> <br><br>
 </p>
 
 <!-- Linux Typing -->
