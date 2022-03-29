@@ -3,7 +3,7 @@
 <!-- PROFILE VIEW 
 <p align="center">  
   <strong>
-    <img src="https://komarev.com/ghpvc/?username=mattnix4&amp;color=008080"/>
+    <img src="https://komarev.com/ghpvc/?username=mattnix4&amp;color=0066ff"/>
   </strong> 
 </p>
 -->
