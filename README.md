@@ -7,6 +7,10 @@
 
 -->
 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mattnix4&repo=mattnix4&countColor=%2308E8FF"/>
+</p>
+
 <!-- STREAK STATS -->
 <div>
   <p align="center">
