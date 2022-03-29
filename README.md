@@ -17,17 +17,15 @@
   </p>
 </div>
 
-<div>
-  <p align="center"> 
+<p align="center"> 
       <a href="https://github.com/mattnix4/github-stats">
 
-      ![](https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg)
-      ![](https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg)
+      <img src="https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg"/>
+      <img src="https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg"/>
 
       </a>
     <br><br>
-  </p>
-</div>
+ </p>
 
   <!-- SKILLS -->
   
