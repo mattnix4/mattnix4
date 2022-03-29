@@ -9,19 +9,23 @@
 -->
 
 <!-- STREAK STATS -->
-<div>
-  <p align="center"> 
+<p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mattnix4&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
-    <br><br>
-  </p>
-</div>
+    <br>
+</p>
 
 
+
+<!-- STATS -->
 <a href="https://github.com/mattnix4/github-stats">
-
-![](https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg)
-
+  <p align='center'>
+    <!-- before
+    ![](https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg)
+    ![](https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg)
+    -->
+    <img src="https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg"/>
+    <img src="https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg"/>
+  </p>
 </a>
 
   <!-- SKILLS -->
