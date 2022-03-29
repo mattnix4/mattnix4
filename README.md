@@ -6,7 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=mattnix4&amp;color=008080"/>
   </strong> 
 </p>
-
 -->
 
 <!-- STREAK STATS -->
@@ -17,7 +16,7 @@
   </p>
 </div>
 
-<p align="center"> 
+<p align='center'> 
       <a href="https://github.com/mattnix4/github-stats">
 
       <img src="https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg"/>
