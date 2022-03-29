@@ -17,21 +17,13 @@
 </div>
 
 
-<div>
-  <p align="center">
-  <a href="https://github.com/mattnix4">
-    <img src="https://github-readme-stats.vercel.app/api?username=mattnix4&show_icons=true&theme=dark&include_all_commits=true&custom_title=Mattnix%27s%20Github%20stats" alt="Github stats" /> 
-   </a>
-  </p>
+<a href="https://github.com/mattnix4/github-stats">
 
+![](https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg)
 
-  <p align="center">
-  <a href="https://github.com/mattnix4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnix4&theme=solarized-dark&&show_icons=true&layout=compact&hide=css,html" alt="Lang stats" /> 
-     </a>
-  </p>
- 
- </div>
+</a>
+
 
   <!-- SKILLS -->
   
