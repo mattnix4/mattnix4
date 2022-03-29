@@ -16,7 +16,7 @@
   </p>
 </div>
 
-<p align='center'> 
+<p align="center"> 
       <a href="https://github.com/mattnix4/github-stats">
 
       <img src="https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg"/>
@@ -28,7 +28,7 @@
 
   <!-- SKILLS -->
   
-<p align='center'>
+<p align="center">
   <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=teal'/>
   <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
